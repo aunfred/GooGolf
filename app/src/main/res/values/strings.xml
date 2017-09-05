@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GooGolf</string>
+    <string name="Login">LOGIN</string>
+    <string name="Regis">REGISTER</string>
+    <string name="Googolf">GooGolf</string>
+
+</resources>
